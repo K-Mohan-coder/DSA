@@ -3,3 +3,7 @@ DSA
 Array - completed - Uploaded
 ArrayLists - completed - Uploaded
 ArrayDeque - completed -Uploaded
+
+Day-2
+LinkedList- Completed - Uploaded
+Stack - Completed - Uploaded
