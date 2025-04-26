@@ -8,3 +8,9 @@ Day-2
 LinkedList- Completed - Uploaded
 Stack - Completed - Uploaded
 Circular Linked List - Viewed
+
+Day-3
+DoublyLinked List 
+Queue
+Circular Queue
+Double Endded Queue
